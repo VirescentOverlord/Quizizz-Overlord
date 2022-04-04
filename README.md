@@ -1,2 +1,0 @@
-# Quizizz-Overlord
-Quizizz hack 
