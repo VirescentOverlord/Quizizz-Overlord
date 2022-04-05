@@ -20,4 +20,7 @@ then simply paste the text you previously copied.
 -----------------------------------------------------
 Finnaly, to activate the hack, go to a valid quizizz game and click on the bookmark. 
 ------------------------------------------------------------------------------------------
+A few seconds after loading this hack your screen should look something like this
+---------------------------------------------------------------------------------------
+![alt text](https://raw.githubusercontent.com/VirescentOverlord/images/main/Screenshot%202022-04-04%208.29.44%20PM.png?token=GHSAT0AAAAAABTGFFEXV5HJ7YRZE6QEUHDQYSLR25Q)
 
